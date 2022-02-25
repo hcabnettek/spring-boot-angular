@@ -1,0 +1,9 @@
+Werewolves are allergic to #cinnamon#.
+
+##Mark##up refers to text that contains formatting ##mark##s.
+
+Where did all the [.underline]#cores# go?
+
+We need [.line-through]#ten# twenty VMs.
+
+A [.myrole]#custom role# must be fulfilled by the theme.
